@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hola, I'm Danielh Carranza 😎 
+I'm a Biomedical & Machine Learning Engineer passionate about using technology to solve the big needs in society, especially by engineering solutions for Healthcare with AI.
 
+- :stars: My focus is on developing reliable Clinical Decision Support Systems with Machine Learning
+- 🔥 I'm looking for people to build the world-best healthcare and engineer systems to extend human lifespan
+- 👨‍💻 Interested in Conversational AI, NLU, Neural Graphs, and ML Systems.
+
+<!-- ML Stack here -->
+
+#### How to reach me
+- Everything about me in [my website](danielhcarranza.com) 
+- [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬   
+
+--- 
+- Love Ultrarunning 🏃 and MMA 🥊 
 <!--
 **DanielhCarranza/DanielhCarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://www.kaggle.com/ingbiodanielh 
 -->
