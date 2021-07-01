@@ -12,7 +12,7 @@ I'm a Biomedical & Machine Learning Engineer passionate about using technology t
 - [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬   
 
 --- 
-- Love Ultrarunning 🏃 and MMA 🥊 
+- Love Books 📚 Ultrarunning 🏃 and MMA 🥊 
 <!--
 **DanielhCarranza/DanielhCarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
