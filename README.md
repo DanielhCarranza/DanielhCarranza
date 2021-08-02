@@ -7,13 +7,13 @@ I'm a Biomedical & Machine Learning Engineer passionate about using technology t
 
 <!-- ML Stack here -->
 
-#### How to reach me
+#### How to find me
 - Everything about me in [my website](danielhcarranza.com) 
 - [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬
 - [Blogs](https://danielhcarranza.github.io/Blog/)   
 
 --- 
-- Love Books 📚 Ultrarunning 🏃 and MMA 🥊 
+- Love Books 📚 Ultrarunning 🏃 MMA 🥊 and Doing hard things every day 🦾  
 <!--
 **DanielhCarranza/DanielhCarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
