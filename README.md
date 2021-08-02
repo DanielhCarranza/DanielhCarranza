@@ -9,7 +9,8 @@ I'm a Biomedical & Machine Learning Engineer passionate about using technology t
 
 #### How to reach me
 - Everything about me in [my website](danielhcarranza.com) 
-- [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬   
+- [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬
+- [Blogs](https://danielhcarranza.github.io/Blog/)   
 
 --- 
 - Love Books 📚 Ultrarunning 🏃 and MMA 🥊 
