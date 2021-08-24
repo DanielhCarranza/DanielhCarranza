@@ -8,7 +8,7 @@ I'm a Biomedical & Machine Learning Engineer passionate about using technology t
 <!-- ML Stack here -->
 
 #### How to find me
-- Everything about me in [my website](danielhcarranza.com) 
+- Everything about me in [my website](https://www.danielhcarranza.com/) 
 - [Tweeting](https://twitter.com/carranzadanielh) about Medical AI, Health Optimization, and Engineering Complex Biological Systems 🔬
 - [Blogs](https://danielhcarranza.github.io/Blog/)   
 
